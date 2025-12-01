@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "morpgame_dart"
+  ],
+  "packages": [
+    {
+      "name": "morpgame_dart",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
