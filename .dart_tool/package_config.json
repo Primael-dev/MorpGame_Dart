@@ -1,0 +1,16 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "morpgame_dart",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.10.1",
+  "flutterRoot": "file:///D:/flutter",
+  "flutterVersion": "3.38.3",
+  "pubCache": "file:///C:/Users/rebec/AppData/Local/Pub/Cache"
+}
